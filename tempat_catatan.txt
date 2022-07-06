@@ -1,0 +1,5 @@
+link to repo 
+https://github.com/sayuri-sam/mlta2_bmkg4.git
+
+link to dataset
+https://drive.google.com/drive/folders/12fKqOJMKc7SJXJvEoHCgP4b7q9u0bED1
